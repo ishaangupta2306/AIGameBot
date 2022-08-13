@@ -18,4 +18,5 @@ STRIPS- like  description  of  the  BuildPeasant  action also included
 ## P6Agent - Automated Tactical Battles
 Implementation of Reinforcement Learning Agent to learn to fight a tactical battle situation.    
 
-Worked on thie AI Project while collaborating with 2 other fellow mates as part of AI course
+# Copyright
+Worked on this project with 2 other fellow students at CWRU. Git Log history is hidden to avoid Copyright infringement. 
