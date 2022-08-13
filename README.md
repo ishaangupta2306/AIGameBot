@@ -1,8 +1,6 @@
 # AI Game Bot for SEPIA Game Framework
 
-SEPIA (“Strategy Engine for Programming Intelligent Agents”), a  game  environment  written  by  other  CWRU  students  tailored  to  writing  AI  
-players. It's is a real-time strategy (RTS) game in which the goal is to collect different types  of  resources  in  the  map.  Typical  resources  are  “Gold”  and  “Wood.”  Resources  are collected  using  units  called  “Peasants.”  Having  resources allows the  player to build other  
-buildings (Peasants can be used to build things) and produce more units. Some of these units are battle units that can be used to  fight the opponent. Games  generally end when one player has  no  more  units  left. 
+SEPIA (“Strategy Engine for Programming Intelligent Agents”), a  game  environment  written  by  other  CWRU  students  tailored  to  writing  AI players. It's is a real-time strategy (RTS) game in which the goal is to collect different types  of  resources  in  the  map.  Typical  resources  are  “Gold”  and  “Wood.”  Resources  are collected  using  units  called  “Peasants.”  Having  resources allows the  player to build other  buildings (Peasants can be used to build things) and produce more units. Some of these units are battle units that can be used to  fight the opponent. Games  generally end when one player has  no  more  units  left. 
 
 ## P2Agent - PathFinding
 Implementation of an agent that can move around a given game map using the A* search algorithm
